@@ -1,20 +1,30 @@
 {
-	"title" : "Simple Dash",
+	"title" : "Dash",
 	"items" : [
 		{
-			"alt" : "Github",
-			"icon" : "fab fa-github",
-			"link" : "https://github.com/kutyla-philipp"
+			"alt" : "Router",
+			"icon" : "fab fa-network-wired",
+			"link" : "pfsense.spoonbilledsandpiper.com"
 		},
 		{
-			"alt" : "Twitter",
-			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
+			"alt" : "Synology",
+			"icon" : "fab fa-hdd",
+			"link" : "synology.spoonbilledsandpiper.com:5000"
 		},
 		{
-			"alt" : "Docker Hub",
-			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
+			"alt" : "Pi Hole",
+			"icon" : "fab fa-raspberry-pi",
+			"link" : "raspberrypi.spoonbilledsandpiper.com/admin"
+		},
+    {
+			"alt" : "Jellyfin",
+			"icon" : "fab fa-music",
+			"link" : "jellyfin.spoonbilledsandpiper.com:8096"
+		},
+    {
+			"alt" : "Proxmox",
+			"icon" : "fab fa-server",
+			"link" : "proxmox.spoonbilledsandpiper.com:8006"
 		}
 	]
 }
